@@ -1,0 +1,9 @@
+/***********10.- Atributo***********/
+/* Seleccionamos todos los que terminen en .com */
+a[href$=".com"] {
+    color: red;
+}
+
+#telefono {
+    border: 5px solid red;
+}

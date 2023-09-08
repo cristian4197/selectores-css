@@ -1,0 +1,4 @@
+/***********9.- Primer Elemento Después***********/
+.admin div + p {
+    background-color: red;
+}

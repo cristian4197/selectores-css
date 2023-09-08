@@ -1,0 +1,6 @@
+/***********13.- Elemento en Especifico***********/
+/* Este iria de 4 en 4
+La lista seria, 4,8,12,16... */
+ul li:nth-child(4n + 4) {
+    border: 2px solid red;
+}
